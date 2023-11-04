@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-02T17:43:41Z" name="Suite" finished-at="2023-11-02T17:45:08Z" duration-ms="86855">
+    <groups>
+    </groups>
+    <test started-at="2023-11-02T17:43:41Z" name="Test" finished-at="2023-11-02T17:45:08Z" duration-ms="86855">
+      <class name="testcases.TC01_letsKodeit">
+        <test-method is-config="true" signature="setUpAndLaunch()[pri:0, instance:testcases.TC01_letsKodeit@6f44a157]" started-at="2023-11-02T17:43:41Z" name="setUpAndLaunch" finished-at="2023-11-02T17:44:21Z" duration-ms="39880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAndLaunch -->
+        <test-method signature="practisePageTest()[pri:0, instance:testcases.TC01_letsKodeit@6f44a157]" started-at="2023-11-02T17:44:21Z" name="practisePageTest" finished-at="2023-11-02T17:44:23Z" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practisePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC01_letsKodeit@6f44a157]" started-at="2023-11-02T17:44:23Z" name="tearDown" finished-at="2023-11-02T17:44:24Z" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC01_letsKodeit -->
+      <class name="testcases.TC02_makemytrip">
+        <test-method is-config="true" signature="setUpAndLaunch()[pri:0, instance:testcases.TC02_makemytrip@35645047]" started-at="2023-11-02T17:43:41Z" name="setUpAndLaunch" finished-at="2023-11-02T17:44:16Z" duration-ms="35158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAndLaunch -->
+        <test-method signature="selectFromAndToCities()[pri:0, instance:testcases.TC02_makemytrip@35645047]" started-at="2023-11-02T17:44:16Z" name="selectFromAndToCities" finished-at="2023-11-02T17:44:30Z" duration-ms="13782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFromAndToCities -->
+        <test-method signature="SelectDateAndSearchFlights()[pri:1, instance:testcases.TC02_makemytrip@35645047]" started-at="2023-11-02T17:44:30Z" name="SelectDateAndSearchFlights" finished-at="2023-11-02T17:44:36Z" duration-ms="6008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDateAndSearchFlights -->
+        <test-method signature="verifySearchResults()[pri:2, instance:testcases.TC02_makemytrip@35645047]" started-at="2023-11-02T17:44:36Z" name="verifySearchResults" finished-at="2023-11-02T17:45:08Z" duration-ms="31808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC02_makemytrip@35645047]" started-at="2023-11-02T17:45:08Z" name="tearDown" finished-at="2023-11-02T17:45:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC02_makemytrip -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
